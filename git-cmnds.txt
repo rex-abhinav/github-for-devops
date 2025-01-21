@@ -1,0 +1,10 @@
+ ls
+   4 git status
+   5 git add test.py
+   6 git add python.py
+   7 git status
+   8 git commit -m"added testing files"
+   9 git status
+  10 rm testing.py
+  11 rm python.py
+  12 git restore python.py
